@@ -1,0 +1,343 @@
+<stylecopresultscache>
+  <version>12</version>
+  <project key="-965216210">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <project key="308974119">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <project key="-1680314563">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="Form1.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/09/29 11:38:43.697</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2016/09/30 13:23:04.405</sourceFile>
+      <parser>2016/09/29 11:38:43.697</parser>
+      <KellyPalRules.KellyPalAnalyzer>2016/09/29 11:38:43.697</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LiteralConstants" ruleCheckId="LC0001">
+        <context>Literal constants(字面常數)-2</context>
+        <line>32</line>
+        <index>1079</index>
+        <endIndex>1079</endIndex>
+        <startLine>32</startLine>
+        <startColumn>32</startColumn>
+        <endLine>32</endLine>
+        <endColumn>32</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LiteralConstants" ruleCheckId="LC0001">
+        <context>Literal constants(字面常數)-2</context>
+        <line>48</line>
+        <index>1684</index>
+        <endIndex>1684</endIndex>
+        <startLine>48</startLine>
+        <startColumn>135</startColumn>
+        <endLine>48</endLine>
+        <endColumn>135</endColumn>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="Form1.Designer.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/09/29 11:38:43.697</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2016/09/29 12:09:39.035</sourceFile>
+      <parser>2016/09/29 11:38:43.697</parser>
+      <KellyPalRules.KellyPalAnalyzer>2016/09/29 11:38:43.697</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <project key="1931719036">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="ButtonStatus.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/10/12 13:42:58.359</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2016/10/12 14:52:19.546</sourceFile>
+      <parser>2016/10/12 13:42:58.359</parser>
+      <KellyPalRules.KellyPalAnalyzer>2016/10/12 13:42:58.359</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>Unsuitable naming(名不符實)-_mesonaButtonStatus(mesona)</context>
+        <line>13</line>
+        <index>284</index>
+        <endIndex>323</endIndex>
+        <startLine>13</startLine>
+        <startColumn>9</startColumn>
+        <endLine>13</endLine>
+        <endColumn>48</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>Unsuitable naming(名不符實)-IsMesonaButtonStatus(mesona)</context>
+        <line>32</line>
+        <index>840</index>
+        <endIndex>938</endIndex>
+        <startLine>32</startLine>
+        <startColumn>9</startColumn>
+        <endLine>35</endLine>
+        <endColumn>9</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>Unsuitable naming(名不符實)-ChangeMesonaButtonStatus(mesona)</context>
+        <line>74</line>
+        <index>1789</index>
+        <endIndex>1890</endIndex>
+        <startLine>74</startLine>
+        <startColumn>9</startColumn>
+        <endLine>77</endLine>
+        <endColumn>9</endColumn>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="DataGridViewDisableButtonCell.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/10/12 13:42:58.359</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2016/10/12 13:56:00.399</sourceFile>
+      <parser>2016/10/12 13:42:58.359</parser>
+      <KellyPalRules.KellyPalAnalyzer>2016/10/12 13:42:58.359</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="DataGridViewDisableButtonColumn.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/10/12 13:42:58.359</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2016/10/12 12:01:33.041</sourceFile>
+      <parser>2016/10/12 13:42:58.359</parser>
+      <KellyPalRules.KellyPalAnalyzer>2016/10/12 13:42:58.359</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Drink.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/10/12 13:42:58.359</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2016/10/02 15:24:03.279</sourceFile>
+      <parser>2016/10/12 13:42:58.359</parser>
+      <KellyPalRules.KellyPalAnalyzer>2016/10/12 13:42:58.359</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="DrinkAddition.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/10/12 13:42:58.359</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2016/10/12 15:01:53.745</sourceFile>
+      <parser>2016/10/12 13:42:58.359</parser>
+      <KellyPalRules.KellyPalAnalyzer>2016/10/12 13:42:58.359</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="DrinkModel.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/10/12 13:42:58.359</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2016/10/12 14:52:19.481</sourceFile>
+      <parser>2016/10/12 13:42:58.359</parser>
+      <KellyPalRules.KellyPalAnalyzer>2016/10/12 13:42:58.359</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>Unsuitable naming(名不符實)-MESONA_NAME(mesona)</context>
+        <line>43</line>
+        <index>1607</index>
+        <endIndex>1638</endIndex>
+        <startLine>43</startLine>
+        <startColumn>9</startColumn>
+        <endLine>43</endLine>
+        <endColumn>40</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>Unsuitable naming(名不符實)-MESONA_PRICE(mesona)</context>
+        <line>44</line>
+        <index>1649</index>
+        <endIndex>1676</endIndex>
+        <startLine>44</startLine>
+        <startColumn>9</startColumn>
+        <endLine>44</endLine>
+        <endColumn>36</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>Unsuitable naming(名不符實)-_mesona(mesona)</context>
+        <line>45</line>
+        <index>1687</index>
+        <endIndex>1755</endIndex>
+        <startLine>45</startLine>
+        <startColumn>9</startColumn>
+        <endLine>45</endLine>
+        <endColumn>77</endColumn>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="EzDrink.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/10/12 13:42:58.359</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2016/10/12 15:31:57.976</sourceFile>
+      <parser>2016/10/12 13:42:58.359</parser>
+      <KellyPalRules.KellyPalAnalyzer>2016/10/12 13:42:58.359</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LargeClass" ruleCheckId="LC0001">
+        <context>Large class(過大類別)</context>
+        <line>13</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>Unsuitable naming(名不符實)-MESONA_INDEX(mesona)</context>
+        <line>22</line>
+        <index>664</index>
+        <endIndex>690</endIndex>
+        <startLine>22</startLine>
+        <startColumn>9</startColumn>
+        <endLine>22</endLine>
+        <endColumn>35</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LongMethod" ruleCheckId="LM0001">
+        <context>Long method(過長函式)</context>
+        <line>209</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="EzDrink.Designer.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/10/12 13:42:58.359</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2016/10/12 15:26:18.555</sourceFile>
+      <parser>2016/10/12 13:42:58.359</parser>
+      <KellyPalRules.KellyPalAnalyzer>2016/10/12 13:42:58.359</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Order.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/10/12 13:42:58.359</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2016/10/12 14:52:19.514</sourceFile>
+      <parser>2016/10/12 13:42:58.359</parser>
+      <KellyPalRules.KellyPalAnalyzer>2016/10/12 13:42:58.359</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="PresentationModel.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/10/12 13:42:58.359</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2016/10/12 14:58:24.143</sourceFile>
+      <parser>2016/10/12 13:42:58.359</parser>
+      <KellyPalRules.KellyPalAnalyzer>2016/10/12 13:42:58.359</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="UnsuitableNaming" ruleCheckId="UN0001">
+        <context>Unsuitable naming(名不符實)-MESONA_INDEX(mesona)</context>
+        <line>15</line>
+        <index>391</index>
+        <endIndex>417</endIndex>
+        <startLine>15</startLine>
+        <startColumn>9</startColumn>
+        <endLine>15</endLine>
+        <endColumn>35</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="KellyPalRules.KellyPalAnalyzer" rule="LongMethod" ruleCheckId="LM0001">
+        <context>Long method(過長函式)</context>
+        <line>64</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="Program.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/10/12 13:42:58.359</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2016/09/26 16:04:52.000</sourceFile>
+      <parser>2016/10/12 13:42:58.359</parser>
+      <KellyPalRules.KellyPalAnalyzer>2016/10/12 13:42:58.359</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/10/12 13:42:58.359</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2016/09/26 13:16:46.000</sourceFile>
+      <parser>2016/10/12 13:42:58.359</parser>
+      <KellyPalRules.KellyPalAnalyzer>2016/10/12 13:42:58.359</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Resources.Designer.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/10/12 13:42:58.359</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2016/09/26 13:16:46.000</sourceFile>
+      <parser>2016/10/12 13:42:58.359</parser>
+      <KellyPalRules.KellyPalAnalyzer>2016/10/12 13:42:58.359</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Settings.Designer.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/10/12 13:42:58.359</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2016/09/26 13:16:46.000</sourceFile>
+      <parser>2016/10/12 13:42:58.359</parser>
+      <KellyPalRules.KellyPalAnalyzer>2016/10/12 13:42:58.359</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Sugar.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/10/12 13:42:58.359</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2016/10/11 15:05:00.041</sourceFile>
+      <parser>2016/10/12 13:42:58.359</parser>
+      <KellyPalRules.KellyPalAnalyzer>2016/10/12 13:42:58.359</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Temperature.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/10/12 13:42:58.359</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2016/10/07 12:16:06.020</sourceFile>
+      <parser>2016/10/12 13:42:58.359</parser>
+      <KellyPalRules.KellyPalAnalyzer>2016/10/12 13:42:58.359</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+</stylecopresultscache>
